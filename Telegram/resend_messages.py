@@ -5,6 +5,9 @@ from telethon import errors
 
 
 def main():
+    """
+        Documentation https://docs.telethon.dev/
+    """
     api_id = "XXXXX"
     api_hash = "XXXXX"
     phone = '+4XXXXX'
